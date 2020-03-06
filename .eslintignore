@@ -1,0 +1,9 @@
+/build/
+/config/
+/dist/
+/*.js
+/*.vue
+/test/unit/coverage/
+/src/components/download.vue
+/src/components/radiusInformation.vue
+/src/App.vue
